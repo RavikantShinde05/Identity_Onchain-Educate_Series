@@ -3,7 +3,7 @@
 This repo will help you to Learn and understand about what is concordium Blockchain.
 An introduction to the Concordium Blockchain where we are covering the core concepts, Design Principles and what makes Concordium Blockchain from other Public Blockchains:
 
-## all the chapters will be Explained and learned week by week till 7th: 
+## All the chapters will be Explained and learned week by week till 7th: 
 - An Introduction to Concordium
 - Deep Dive Into Identity
 - Exploring Verify & Access with Concordium ID
