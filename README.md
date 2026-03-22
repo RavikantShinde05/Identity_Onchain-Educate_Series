@@ -169,22 +169,9 @@ Run tests using:
 cargo test
 ```
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 💬 Community
 
 * Discord: https://discord.gg/concordium
 * Twitter: https://twitter.com/concordiumnet
 * Telegram: https://t.me/concordium
-
----
-
-## ⚠️ Disclaimer
-
-This repository is for educational and development purposes only. Always audit smart contracts before deploying to mainnet.
