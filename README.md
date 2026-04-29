@@ -32,15 +32,15 @@ Concordium is a public, permissionless blockchain designed to balance **privacy 
 
 Key highlights:
 
-* 🔐 Built-in identity layer (ID verification at protocol level)
-* ⚡ High-performance and low transaction costs
-* 📜 Smart contracts written in Rust
-* 🧾 Regulatory compliance support
-* 🌍 Energy-efficient consensus mechanism
+*  Built-in identity layer (ID verification at protocol level)
+*  High-performance and low transaction costs
+*  Smart contracts written in Rust
+*  Regulatory compliance support
+*  Energy-efficient consensus mechanism
 
 ---
 
-## 🧱 Core Features
+##  Core Features
 
 ### 1. Identity Layer
 
@@ -67,7 +67,7 @@ Key highlights:
 
 ---
 
-## 📦 Project Structure
+##  Project Structure
 
 ```
 .
